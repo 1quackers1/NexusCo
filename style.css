@@ -3,9 +3,15 @@ body {
 }
 h1 {
     color: #ffffff;
+    font-family: verdana;
 }
 h3 {
     color: #ffffff;
+    font-family: verdana;
+}
+p {
+    color: #ffffff;
+    font-family: verdanda;
 }
 img {
     height: 100%;
